@@ -2,6 +2,7 @@
 layout: post
 permalink: /he/content/אופציות/
 title: אופציות
+language: he
 ---
 {% include JB/setup %}
 
