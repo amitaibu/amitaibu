@@ -6,9 +6,11 @@
     border: 1px solid grey;
     margin: 0 auto; }
     #myCarousel .item p {
-      padding: 10px; }
+      padding: 0 25px;
+      font-size: 14px;
+      line-height: 27px; }
   #myCarousel .carousel-control {
-    top: 300px; }
+    top: 320px; }
     #myCarousel .carousel-control.left {
       left: 40%; }
     #myCarousel .carousel-control.right {
