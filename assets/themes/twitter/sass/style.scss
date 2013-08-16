@@ -1,9 +1,14 @@
 #myCarousel .item {
   min-height: 246px;
   width: 640px;
-  border: 1px solid grey; }
-  #myCarousel .item.text {
-    padding: 10px; }
+  border: 1px solid grey;
+
+  &.text {
+    padding: 10px;
+  }
+}
+
+
 
 /* Custom container */
 .container-narrow {
