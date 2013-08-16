@@ -1,16 +1,18 @@
 #myCarousel {
-  margin-bottom: 150px; }
+  margin-bottom: 150px;
+  padding-top: 50px; }
   #myCarousel .item {
     min-height: 246px;
     width: 640px;
-    border: 1px solid grey;
     margin: 0 auto; }
+    #myCarousel .item.text {
+      border-top: 1px solid black; }
     #myCarousel .item p {
       padding: 0 25px;
-      font-size: 14px;
-      line-height: 27px; }
+      font-size: 18px;
+      line-height: 32px; }
   #myCarousel .carousel-control {
-    top: 320px; }
+    top: 0; }
     #myCarousel .carousel-control.left {
       left: 40%; }
     #myCarousel .carousel-control.right {
