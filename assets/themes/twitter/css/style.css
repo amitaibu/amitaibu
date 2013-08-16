@@ -3,7 +3,6 @@
   padding-top: 50px; }
   #myCarousel .item {
     min-height: 246px;
-    width: 640px;
     margin: 0 auto; }
     #myCarousel .item.text {
       border-top: 1px solid black; }
