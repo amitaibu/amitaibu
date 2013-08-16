@@ -6,7 +6,7 @@ layout: page
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.language == "en" %}
-    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> // <span>{{ post.date | date_to_string }}</span></li>
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> // <span class="date">{{ post.date | date_to_string }}</span></li>
     {% endif %}
   {% endfor %}
 </ul>
