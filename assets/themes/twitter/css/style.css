@@ -2,7 +2,7 @@
   min-height: 246px;
   width: 640px;
   border: 1px solid grey; }
-  #myCarousel .item.text {
+  #myCarousel .item p {
     padding: 10px; }
 
 .content {
