@@ -1,9 +1,10 @@
 #myCarousel {
-  margin-bottom: 150px;
-  padding-top: 50px; }
+  padding-top: 50px;
+  min-height: 320px;
+}
   #myCarousel .item {
-    min-height: 246px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    margin-bottom: 50px; }
     #myCarousel .item.text {
       border-top: 1px solid black; }
     #myCarousel .item p {

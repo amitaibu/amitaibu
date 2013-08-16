@@ -1,9 +1,9 @@
 #myCarousel {
-  margin-bottom: 150px;
   padding-top: 50px;
+  min-height: 320px;
+  margin-bottom: 50px;
 
   .item {
-    min-height: 246px;
     margin: 0 auto;
 
     &.text {
@@ -30,9 +30,7 @@
     &.right {
       right: 40%;
     }
-
   }
-
 }
 
 .content {
