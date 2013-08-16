@@ -1,12 +1,30 @@
-#myCarousel .item {
-  min-height: 246px;
-  width: 640px;
-  border: 1px solid grey;
-  margin: 0 auto;
+#myCarousel {
+  margin-bottom: 150px;
 
-  p {
-    padding: 10px;
+  .item {
+    min-height: 246px;
+    width: 640px;
+    border: 1px solid grey;
+    margin: 0 auto;
+
+    p {
+      padding: 10px;
+    }
   }
+
+  .carousel-control {
+    top: 300px;
+
+    &.left {
+      left: 40%;
+    }
+
+    &.right {
+      right: 40%;
+    }
+
+  }
+
 }
 
 

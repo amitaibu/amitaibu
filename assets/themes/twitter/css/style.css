@@ -1,10 +1,18 @@
-#myCarousel .item {
-  min-height: 246px;
-  width: 640px;
-  border: 1px solid grey;
-  margin: 0 auto; }
-  #myCarousel .item p {
-    padding: 10px; }
+#myCarousel {
+  margin-bottom: 150px; }
+  #myCarousel .item {
+    min-height: 246px;
+    width: 640px;
+    border: 1px solid grey;
+    margin: 0 auto; }
+    #myCarousel .item p {
+      padding: 10px; }
+  #myCarousel .carousel-control {
+    top: 300px; }
+    #myCarousel .carousel-control.left {
+      left: 40%; }
+    #myCarousel .carousel-control.right {
+      right: 40%; }
 
 .content {
   font-family: 'Georgia', Times, serif;
