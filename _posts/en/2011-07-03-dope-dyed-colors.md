@@ -2,6 +2,7 @@
 layout: post
 permalink: /en/content/dope-dyed-colors/
 title: dope dyed colors
+language: en
 ---
 {% include JB/setup %}
 
