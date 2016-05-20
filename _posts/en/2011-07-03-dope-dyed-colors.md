@@ -25,14 +25,9 @@ Embroidery Thread: 150D/2, 150D/3, 300D/2, 300D/3 <br />
 Twist of FDY,DTY: 100TPM-800TPM <br />
 Carpet Thread: 150D/2*16ply  300D/2*8ply <br />
 
-Best regards,
+Best regards,  
 Vincent
 
--------------------------------------
-Hangzhou Zhongli Chemical Fiber Co.,Ltd.  
-Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241  
-Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com  
-http://www.zhongli-group.com
 
 ## 2) From Amitai to Vincent
 
@@ -85,14 +80,8 @@ Embroidery Thread: 150D/2, 150D/3, 300D/2, 300D/3 <br />
 Twist of FDY,DTY: 100TPM-800TPM <br />
 Carpet Thread: 150D/2*16ply  300D/2*8ply <br />
 
-Best regards,
+Best regards,  
 Vincent
-
--------------------------------------
-Hangzhou Zhongli Chemical Fiber Co.,Ltd.  
-Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241  
-Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com  
-http://www.zhongli-group.com
 
 ## 7) From Amitai to Vincent
 
