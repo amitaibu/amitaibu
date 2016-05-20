@@ -6,7 +6,10 @@ language: en
 ---
 {% include JB/setup %}
 
+_A short emails exchange between me and a spammer_
+
 ## 1) From Vincent to Amitai
+
 Dear Sir:
 
 We are professional in producing polyester **dope dyed yarn(POY,FDY,DTY)**
@@ -26,15 +29,17 @@ Best regards,
 Vincent
 
 -------------------------------------
-Hangzhou Zhongli Chemical Fiber Co.,Ltd.
-Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241
-Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com
+Hangzhou Zhongli Chemical Fiber Co.,Ltd.  
+Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241  
+Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com  
 http://www.zhongli-group.com
 
 ## 2) From Amitai to Vincent
+
 You havez dopes? I am dyed fro dopes!
 
 ## 3) From Vincent to Amitai
+
 Dear Sir
 
 Sorry, I don't understand you meaning.
@@ -42,12 +47,14 @@ Sorry, I don't understand you meaning.
 We produce polyester yarn in dope dyed colors.
 
 ## 4) From Amitai to Vincent
+
 Dear Vincent,
 
 We are many rich. many textile, but dope here is nott good. you has dope? you say you have good dope make see colors!
 Since last email I make joke, to family, and friends, and  nihgbors and wife and girlfriend and family -- dope make you dye, but good dope make you see colors! You like joke? you can tell you family, you friends and you nigbors!!!
 
 ## 5) From Amitai to Vincent
+
 Dear Vicente,
 
 I makings shwo to uncle you electroinc-email, and he say we make order. My uncle has many smarts and he say your website are good idea, like this no problem from govermenet right? it is smarts!!!!! :&#)
@@ -58,10 +65,11 @@ You also WRITE many numbers, but we are not know what is betterer, but i make gu
 
 What is yarn?
 
-Shabat shalom,
+Shabat shalom,  
 Amitai
 
 ## 6) From Vincent to Amitai
+
 Dear Sir:
 
 We are professional in producing polyester **dope dyed yarn(POY,FDY,DTY)**
@@ -81,12 +89,13 @@ Best regards,
 Vincent
 
 -------------------------------------
-Hangzhou Zhongli Chemical Fiber Co.,Ltd.
-Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241
-Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com
+Hangzhou Zhongli Chemical Fiber Co.,Ltd.  
+Add:Yonglian Village Guali Town Xiaoshan District Hangzhou China 311241  
+Email: trade@zhongli-group.com     MSN: wengyiwei@hotmail.com  
 http://www.zhongli-group.com
 
 ## 7) From Amitai to Vincent
+
 Hi VIncent,
 
 Yes, we are already see email. please confirme how to pay for get dope. URGENT! Uncle also askings me to me to ask, if possibble make delivery I. I can take inside to me, maybe 3 - 4KG, and I come with family and wife and girldfriend, we can take insides maybe 30 - 40 KG (little baby maybe only 200 - 250 gr, but wife VERY big)
