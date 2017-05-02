@@ -7,4 +7,4 @@ language: en
 
 {% include JB/setup %}
 
-<img src="/assets/images/dad-sy-agnon.jpg">
+<img src="{{BASE_PATH}}/assets/images/dad-sy-agnon.jpg">
